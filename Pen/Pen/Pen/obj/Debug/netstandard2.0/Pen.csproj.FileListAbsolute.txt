@@ -1,0 +1,12 @@
+C:\Git\SchoolProjects\Pen\Pen\Pen\bin\Debug\netstandard2.0\Pen.deps.json
+C:\Git\SchoolProjects\Pen\Pen\Pen\bin\Debug\netstandard2.0\Pen.dll
+C:\Git\SchoolProjects\Pen\Pen\Pen\bin\Debug\netstandard2.0\Pen.pdb
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\Pen.csprojAssemblyReference.cache
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\Pen.csproj.CoreCompileInputs.cache
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\Pen.AssemblyInfoInputs.cache
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\Pen.AssemblyInfo.cs
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\Pen.dll
+C:\Git\SchoolProjects\Pen\Pen\Pen\obj\Debug\netstandard2.0\Pen.pdb
