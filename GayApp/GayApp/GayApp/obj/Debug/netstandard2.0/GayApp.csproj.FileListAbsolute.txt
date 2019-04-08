@@ -1,0 +1,12 @@
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\bin\Debug\netstandard2.0\GayApp.deps.json
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\bin\Debug\netstandard2.0\GayApp.dll
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\bin\Debug\netstandard2.0\GayApp.pdb
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\GayApp.csprojAssemblyReference.cache
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\GayApp.csproj.CoreCompileInputs.cache
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\GayApp.AssemblyInfoInputs.cache
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\GayApp.AssemblyInfo.cs
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\GayApp.dll
+C:\Git\SchoolProjects\GayApp\GayApp\GayApp\obj\Debug\netstandard2.0\GayApp.pdb
